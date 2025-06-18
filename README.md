@@ -4,7 +4,7 @@ This Python project provides a GUI-assisted tool to analyze spectral peaks from 
 
 ## Features
 
-- Load multiple CSV files containing spectral data
+- Load a CSV file containing spectral data
 - Interactive prompt to specify which peaks to analyze (D, G, 2D)
 - Automated peak fitting with multiple models and selection of best fit
 - Calculation of peak area, intensity, and full width at half maximum (FWHM)
